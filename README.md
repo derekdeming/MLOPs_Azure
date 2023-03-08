@@ -1,6 +1,5 @@
-# Azure MLOps (v2) solution accelerator
+# Azure MLOps (v2) 
 
-![Header](documentation/repositoryfiles/mlopsheader.jpg)
 
 Welcome to the MLOps (v2) solution accelerator repository! This project is intended to serve as *the* starting point for MLOps implementation in Azure.
 
